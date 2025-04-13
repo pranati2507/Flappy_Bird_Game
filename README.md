@@ -4,7 +4,7 @@ A pixel-perfect clone of the classic **Flappy Bird** game built using **HTML5**,
 
 ## 📸 Preview
 
-(![Flappy Bird Screenshot](https://github.com/user-attachments/assets/96ceb21a-86b9-4f62-817a-d152e136927f)
+![Flappy Bird Screenshot](https://github.com/user-attachments/assets/96ceb21a-86b9-4f62-817a-d152e136927f)
 
 
 ## 🚀 Features
@@ -30,9 +30,15 @@ A pixel-perfect clone of the classic **Flappy Bird** game built using **HTML5**,
 - The more pipes you pass, the higher your score!  
 - When the bird crashes — hit **Restart** and try again 💥
 
-## 🎧 Music Credits
+### 🎵 Music Credit
 
-- Background Loop: [Bensound ]((https://www.bensound.com/bensound-music/bensound-jazzyfrenchy.mp3))
+**Background Music:**  
+🎼 "jazzyfrenchy"   
+📦 Provided by [Bensound](https://www.bensound.com/bensound-music/bensound-jazzyfrenchy.mp3) 
+🪪 License: Free for commercial use, no attribution required (but appreciated!)
+
+> Thanks to amazing creators for making soundtracks accessible!
+
 
 ## 🚀 Live Demo
 
