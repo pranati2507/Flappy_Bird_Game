@@ -33,7 +33,7 @@ A pixel-perfect clone of the classic **Flappy Bird** game built using **HTML5**,
 ### 🎵 Music Credit
 
 **Background Music:**  
-🎼 "jazzyfrenchy"   
+🎼 jazzyfrenchy   
 📦 Provided by [Bensound](https://www.bensound.com/bensound-music/bensound-jazzyfrenchy.mp3) 
 🪪 License: Free for commercial use, no attribution required (but appreciated!)
 
