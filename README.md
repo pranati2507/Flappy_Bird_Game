@@ -2,7 +2,7 @@
 
 A pixel-perfect clone of the classic **Flappy Bird** game built using **HTML5**, **CSS3**, and **JavaScript**. It features retro graphics, smooth animations, sound effects, and a responsive UI — playable on both desktop and mobile!
 
-![Flappy Bird Screenshot](![Flappy Bird Screenshot](https://github.com/user-attachments/assets/db4764e8-aeb1-4a1f-9a8c-ebf6d2363e48)
+![Flappy Bird Screenshot]![Flappy Bird Screenshot](https://github.com/user-attachments/assets/db4764e8-aeb1-4a1f-9a8c-ebf6d2363e48)
 )
 
 ## 🚀 Features
@@ -34,19 +34,10 @@ A pixel-perfect clone of the classic **Flappy Bird** game built using **HTML5**,
 
 - Background Loop: [Bensound - Fun Game Music Loop]((https://www.bensound.com/bensound-music/bensound-jazzyfrenchy.mp3))
 
-## 📦 Setup
+## 🚀 Live Demo
 
-To run locally:
+Play it here: [Flappy Bird Game ](https://flappybirdjest.tiiny.site))
 
-```bash
-git clone https://github.com/yourusername/flappy-bird-clone.git
-cd flappy-bird-clone
-open index.html  # or use Live Server
+## 📬 Contact
 
- 📸 Preview
-You can play it live here:
-👉 Play Flappy Bird(https://flappybirdjest.tiiny.site)
-
-🧑‍💻 Author
-Made with 💛 by Pranati
-
+Made with ❤️ by [Pranati](https://github.com/pranati2507)
