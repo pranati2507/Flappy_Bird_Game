@@ -2,10 +2,10 @@
 
 A pixel-perfect clone of the classic **Flappy Bird** game built using **HTML5**, **CSS3**, and **JavaScript**. It features retro graphics, smooth animations, sound effects, and a responsive UI — playable on both desktop and mobile!
 
-## Preview
+## 📸 Preview
 
-![Game Screenshot](![Flappy Bird Screenshot](https://github.com/user-attachments/assets/96ceb21a-86b9-4f62-817a-d152e136927f)
-) 
+(![Flappy Bird Screenshot](https://github.com/user-attachments/assets/96ceb21a-86b9-4f62-817a-d152e136927f)
+
 
 ## 🚀 Features
 
